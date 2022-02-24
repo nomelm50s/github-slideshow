@@ -2,3 +2,16 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .bundle
+node_modules/reveal.js/lib/font/league-gothic/league-gothic.ttf
+node_modules/reveal.js/lib/font/league-gothic/league-gothic.eot
+node_modules/reveal.js/lib/font/league-gothic/league-gothic.ttf
+node_modules/reveal.js/lib/font/league-gothic/league-gothic.woff
+node_modules/reveal.js/lib/font/source-sans-pro/source-sans-pro-italic.eot
+node_modules/reveal.js/lib/font/source-sans-pro/source-sans-pro-italic.ttf
+node_modules/reveal.js/lib/font/source-sans-pro/source-sans-pro-italic.woff
+node_modules/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibold.eot
+node_modules/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibold.ttf
+node_modules/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibold.woff
+node_modules/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibolditalic.eot
+node_modules/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibolditalic.ttf
+node_modules/reveal.js/lib/font/source-sans-pro/source-sans-pro-semibolditalic.woff
